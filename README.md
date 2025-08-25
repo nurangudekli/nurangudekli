@@ -21,13 +21,12 @@
 <img alt="GitHub" title="GitHub" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
 
-> Also: Azure OpenAI • Cognitive Search • Document Intelligence • Entra ID • Microsoft Defender for Identity/Endpoint • REST‑assured • Pact • Testcontainers • Redpanda • Solace JMS.
+> Also: Azure OpenAI • Cognitive Search • Document Intelligence  • REST‑assured
 
 ---
 
 ## 🚀 Projects & Repos (highlights)
 
-> *(Update links when repos are public/pinned.)*
 
 * **AI Orchestration with Java on Azure** — Multi‑agent orchestration with Azure OpenAI + Cognitive Search + Document Intelligence. *Demo & reference arch.*
   `Java` `Quarkus` `Spring Boot` `Azure`

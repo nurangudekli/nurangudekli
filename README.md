@@ -2,8 +2,6 @@
 
 # Nuran Güdekli
 
-**Java × Azure AI • KYC/Compliance • Threat Detection • Microservices**
-
 </div>
 
 
